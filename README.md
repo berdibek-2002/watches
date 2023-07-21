@@ -1,13 +1,11 @@
 # Responsive Watches Website ⌚
-## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
+## [Смотри в Google, Yandex и т.д](https://wa1ches.netlify.app/)
 ### Responsive Watches Website ⌚
 
-- Responsive Watches Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Адаптивный веб-сайт часов с использованием HTML CSS и JavaScript
+- Плавная прокрутка в каждом разделе.
+- Включает темный и светлый режим.
+- Сначала разработано с использованием методологии Mobile First, а затем для настольных компьютеров.
+- Совместим со всеми мобильными устройствами и имеет красивый и приятный пользовательский интерфейс.
 
 ![preview img](/preview.png)
